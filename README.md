@@ -14,22 +14,15 @@
 
 ---
 
-## 👨‍💻 About Me
+💻 Full Stack Developer (Java, Spring Boot, MERN)  
 
-🔭 I’m currently working on **Full Stack Development (Java + Spring Boot + MERN Stack)**  
+🚀 Building scalable applications & exploring system design  
 
-👯 I’m looking to collaborate on **scalable web apps, SaaS & open source**  
+👨‍🏫 Trainer & Mentor in Java, SQL, and DSA  
 
-🤝 I’m looking for help with **System Design & Advanced DSA (Graphs, DP)**  
+📊 450+ DSA problems solved on LeetCode  
 
-🌱 I’m currently learning **Backend Architecture & High-Level System Design**  
-
-💬 Ask me about **Java, MERN Stack, DSA & Full Stack Development**  
-
-👨‍🏫 I’m a **Software Development Trainer & Mentor (Java, SQL, DSA)**  
-
-⚡ **Solved 450+ DSA problems on LeetCode** & passionate about teaching  
-
+🤝 Open to collaboration on impactful projects
 ---
 
 ## 💼 Experience
@@ -53,8 +46,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahzad2615&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzad2615&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shahzad2615&show_icons=true&theme=tokyonight&cache_seconds=1800" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzad2615&layout=compact&theme=tokyonight&cache_seconds=1800" height="160"/>
 </p>
 
 ---
@@ -70,7 +63,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shahzad2615&theme=radical&no-frame=true&no-bg=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=shahzad2615&theme=algolia&no-frame=true&margin-w=10&column=6" />
 </p>
 
 ---
@@ -89,11 +82,18 @@
 
 ---
 
-## 🏅 LeetCode Badges
+## 🔥 LeetCode Stats & Achievements
 
 <p align="center">
-  <img src="https://assets.leetcode.com/static_assets/others/2024-100.gif" height="100"/>
-  <img src="https://assets.leetcode.com/static_assets/others/2024-50.gif" height="100"/>
+  <a href="https://leetcode.com/u/shahzad401/">
+    <img src="https://leetcard.jacoblin.cool/shahzad401?theme=dark&font=Karma&ext=contest"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/100%20Days%20Badge-Completed-orange?style=for-the-badge&logo=leetcode"/>
+  <img src="https://img.shields.io/badge/Consistency-Streak%20Active-green?style=for-the-badge&logo=leetcode"/>
+  <img src="https://img.shields.io/badge/Problems%20Solved-450%2B-blue?style=for-the-badge&logo=leetcode"/>
 </p>
 
 ---
