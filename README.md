@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Full Stack Java Developer (Spring Boot + React)<br><br>👨‍🏫 Software Development Trainer & Mentor (Java, SQL)<br><br>🚀 450+ DSA problems solved | Passionate about building scalable applications<br><br>🌱 Currently learning System Design & Advanced Backend<br><br>💬 Ask me about Java, DSA, React & Full Stack Development
+💻 Full Stack Java Developer (Spring Boot + React),Mern Stack Developer<br><br>👨‍🏫 Software Development  & Mentor (Java, SQL)<br><br>🚀 450+ DSA problems solved | Passionate about building scalable applications<br><br>🌱 Currently learning System Design & Advanced Backend<br><br>💬 Ask me about Java, DSA, React & Full Stack Development
 
 
 ## 🌐 Socials:
