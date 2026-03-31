@@ -35,12 +35,47 @@
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Tech Stack & Skills
 
+### 💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,express,mongodb,mysql,tailwind,git,github,docker,cpp" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,js,ts,cs" />
 </p>
 
+### 🌐 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+</p>
+
+### ⚙️ Backend & Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,hibernate" />
+</p>
+
+### 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+</p>
+
+### ☁️ DevOps & Cloud
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,jenkins,kafka,nginx" />
+</p>
+
+### 🛠️ Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify" />
+</p>
+
+### 🧠 Core Skills
+<p align="center">
+  <img src="https://img.shields.io/badge/DSA-Data%20Structures%20%26%20Algorithms-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Algorithms-Problem%20Solving-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Graphs-Advanced-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Binary%20Tree-DSA-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Arrays-Strong-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Heaps-Priority%20Queue-purple?style=for-the-badge"/>
+</p>
 ---
 
 ## 📊 GitHub Stats
@@ -68,17 +103,6 @@
 
 ---
 
-## 🔥 LeetCode Stats & Activity
-
-<p align="center">
-  <a href="https://leetcode.com/u/shahzad401/">
-    <img src="https://leetcard.jacoblin.cool/shahzad401?theme=dark&font=Karma&ext=contest"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://leetcode-heatmap.vercel.app/api?username=shahzad401&theme=dark"/>
-</p>
 
 ---
 
