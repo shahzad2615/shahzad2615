@@ -39,16 +39,25 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shahzad-ali-17584424b">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Shahzad%20Ali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="https://www.instagram.com/its_shahzad_13">
-    <img src="https://skillicons.dev/icons?i=instagram" />
+    <img src="https://img.shields.io/badge/Instagram-@its__shahzad__13-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+
+  <a href="https://x.com/shahzadaliidri2">
+    <img src="https://img.shields.io/badge/X-@shahzadaliidri2-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+
+  <a href="mailto:shahzadaliidrishi@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-shahzadaliidrishi%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
   <a href="https://my-portfolio-igmy.vercel.app/home">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel"/>
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
-
 ## 🚀 Tech Stack & Skills
 
 ### 💻 Languages
