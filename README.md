@@ -42,7 +42,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
 
-  <a href="https://www.instagram.com/its_shahzad_13">
+  <a href="https://www.instagram.com/its_shahzad_134">
     <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
   </a>
 
