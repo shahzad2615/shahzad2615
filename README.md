@@ -31,9 +31,23 @@
 - Worked on **Java (Spring Boot) & MERN Stack applications**  
 - Built and deployed **real-world scalable web applications**  
 - Mentored students in **Java, DSA, SQL & Full Stack Development**  
-- Guided learners in **project building & interview preparation**  
+- Guided learners in **project building & interview preparation**
+
 
 ---
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shahzad-ali-17584424b">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://www.instagram.com/its_shahzad_13">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://my-portfolio-igmy.vercel.app/home">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel"/>
+  </a>
+</p>
 
 ## 🚀 Tech Stack & Skills
 
@@ -78,12 +92,6 @@
 </p>
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahzad2615&show_icons=true&theme=tokyonight&cache_seconds=1800" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzad2615&layout=compact&theme=tokyonight&cache_seconds=1800" height="160"/>
-</p>
 
 ---
 
@@ -95,11 +103,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shahzad2615&theme=algolia&no-frame=true&margin-w=10&column=6" />
-</p>
 
 ---
 
@@ -157,19 +161,7 @@
 
 ---
 
-## 🌐 Connect with Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/shahzad-ali-17584424b">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://www.instagram.com/its_shahzad_13">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-  <a href="https://my-portfolio-igmy.vercel.app/home">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel"/>
-  </a>
-</p>
 
 ---
 
